@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yuri
+- 👀 I’m interested in python/node-js
+- 🌱 I’m currently learning JavaScript
+- 💞️ I'm looking to collaborate on a better virtual universe
